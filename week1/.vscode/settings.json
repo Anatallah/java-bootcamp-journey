@@ -1,4 +1,6 @@
 {
     "editor.semanticHighlighting.enabled": true,
-    "editor.rulers": []
+    "editor.rulers": [
+        80
+    ]
 }
