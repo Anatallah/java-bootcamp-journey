@@ -1,3 +1,5 @@
+package Day5;
+
 public class Experiment{
     
     private String name;

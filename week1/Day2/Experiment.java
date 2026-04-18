@@ -1,3 +1,5 @@
+package Day2;
+
 public class Experiment {
     String name;
     String date;

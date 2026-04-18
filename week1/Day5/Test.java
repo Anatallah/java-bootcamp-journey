@@ -1,3 +1,5 @@
+package Day5;
+
 public class Test{
     public static void main(String[] args) {
         Experiment[] experimentsArray = new Experiment[3];

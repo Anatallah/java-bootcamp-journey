@@ -1,3 +1,5 @@
+package Day4;
+
 public class Main{
     public static void main(String[] args) {
         Experiment exp1 = new Experiment("Protein Function", "2026-04-15", 22.2);
